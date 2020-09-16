@@ -1,7 +1,6 @@
 # Main_repo
-
-
-우와아아아아~~ 
-
-이롷ㄱㅔ 올라가는구나
 GIT 화이팅!!
+
+개인 프로젝트 git commit
+팀프로젝트 inventory, scrap 담당 stockstrap 부분 commit
+추가 사항 commit
